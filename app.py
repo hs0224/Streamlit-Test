@@ -1,5 +1,3 @@
-
-
 from fastai.vision.all import *
 import streamlit as st
 from PIL import Image
